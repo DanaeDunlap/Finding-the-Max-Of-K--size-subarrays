@@ -1,7 +1,8 @@
 /*
 * Name: Danae Dunlap
 * Date: 02/12/21
-* Purpose: Given an array B of size 'N' and an integer k, find the       * maximum for each and every contiguous subarray of size k.
+* Purpose: Given an array B of size 'N' and an integer k, find the       
+* maximum for each and every contiguous subarray of size k.
 */
 
 import java.util.*; 
